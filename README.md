@@ -143,6 +143,58 @@ This replaces earlier tooth-locking ideas with a **compression-collar interface*
 ---
 
 ## 📦 Files in Repository
+
+```
+.
+├── images
+│   ├── IMG_4484.JPG
+│   ├── IMG_4485.JPG
+│   └── IMG_4486.JPG
+├── README.md
+├── stl
+│   ├── Base.stl
+│   ├── CollarLeft.stl
+│   ├── CollarRight.stl
+│   ├── TestBase.stl
+│   ├── TestTube.stl
+│   └── Tube.stl
+├── TC40CastorAdapter.20251110-144419.FCBak
+└── TC40CastorAdapter.FCStd
+```
+
+---
+
+## 🧠 Notes
+
+---
+
+## 📦 Files in Repository
+
+```
+.
+├── images
+│   ├── IMG_4484.JPG
+│   ├── IMG_4485.JPG
+│   └── IMG_4486.JPG
+├── README.md
+├── stl
+│   ├── Base.stl
+│   ├── CollarLeft.stl
+│   ├── CollarRight.stl
+│   ├── TestBase.stl
+│   ├── TestTube.stl
+│   └── Tube.stl
+├── TC40CastorAdapter.20251110-144419.FCBak
+└── TC40CastorAdapter.FCStd
+```
+
+---
+
+## 🧠 Notes  
+
+---
+
+## 📦 Files in Repository
 TC40CastorAdapter % tree -L 3
 .
 ├── images
