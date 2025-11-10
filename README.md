@@ -10,8 +10,8 @@ The goal is to make rolling the fully-built telescope in and out of observing po
 | Preview | Description |
 |:--:|:--:|
 | ![Adapter and wheel detail](images/IMG_4486.JPG) | *Detail of the wheel adapter showing the collar and M5 knob securing the tube.* |
-| ![Full rig view](images/IMG_4485.JPG) | *Celestron EdgeHD 9.25 mounted on ZWO TC40 tripod with wheel adapters fitted.* |
-| ![Close view of collar](images/IMG_4484.JPG) | *Compression collar fitted on tripod leg — no damage to carbon fiber, easy install/remove.* |
+| ![Full rig view](images/IMG_4484.JPG) | *Celestron EdgeHD 9.25 mounted on ZWO TC40 tripod with wheel adapters fitted.* |
+| ![Close view of collar](images/IMG_4485.JPG) | *Compression collar fitted on tripod leg — no damage to carbon fiber, easy install/remove.* |
 
 ---
 
